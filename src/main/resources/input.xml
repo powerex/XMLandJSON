@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee number="2">
+    <name>John</name>
+    <secondName>Week</secondName>
+    <department>
+        <id>505</id>
+        <name>Security</name>
+    </department>
+</Employee>

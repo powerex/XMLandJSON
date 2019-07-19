@@ -1,0 +1,16 @@
+<Company>
+    <Cities>
+        <City id="kv">Kiev</City>
+        <City id="kh">Kharkiv</City>
+    </Cities>
+    <Users>
+        <User city="kv">
+            <email>gmail@gmail.com</email>
+            <fullName>Gmail User</fullName>
+        </User>
+        <User city="kh">
+            <email>admin@epam.ua</email>
+            <fullName>Admin</fullName>
+        </User>
+    </Users>
+</Company>
